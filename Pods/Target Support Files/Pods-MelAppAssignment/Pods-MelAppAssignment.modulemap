@@ -1,0 +1,6 @@
+framework module Pods_MelAppAssignment {
+  umbrella header "Pods-MelAppAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
